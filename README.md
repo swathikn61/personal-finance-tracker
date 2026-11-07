@@ -4,8 +4,6 @@ A full-stack personal finance tracker for recording income and expenses and seei
 
 **Live demo:** [spend-journal.vercel.app](https://spend-journal.vercel.app) (create a free account to try it. The API runs on a free plan, so the first request after a while can take 30–60 seconds while it wakes up.)
 
-![Spend Journal dashboard](screenshots/02-overview.png)
-
 ## Features
 
 - **Accounts**: register and sign in with JWT access and refresh tokens. Sessions renew silently when the access token expires.
